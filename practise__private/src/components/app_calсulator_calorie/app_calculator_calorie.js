@@ -12,8 +12,8 @@ const AppCalculatorCalories = () => {
                         Ваш пол
                     </div>
                     <div className="calculating__choose" id="gender">
-                        <div id="female" class="calculating__choose-item calculating__choose-item_active">Женщина</div>
-                        <div id="male" class="calculating__choose-item">Мужчина</div>
+                        <div id="female" className="calculating__choose-item calculating__choose-item_active">Женщина</div>
+                        <div id="male" className="calculating__choose-item">Мужчина</div>
                     </div>
 
                     <div className="calculating__subtitle">

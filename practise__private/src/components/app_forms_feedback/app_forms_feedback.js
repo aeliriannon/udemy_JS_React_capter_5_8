@@ -8,8 +8,8 @@ const AppFormsFeedback = () => {
             <div className="container">
                 <div className="title">Заказывай пробный день прямо сейчас!</div>
                 <form action="#" className="order__form">
-                    <input required placeholder="Ваше имя" name="name" type="text" class="order__input" />
-                    <input required placeholder="Ваш номер телефона" name="phone" type="phone" class="order__input" />
+                    <input required placeholder="Ваше имя" name="name" type="text" className="order__input" />
+                    <input required placeholder="Ваш номер телефона" name="phone" type="phone" className="order__input" />
                     <img src={arrow} alt="right" />
                     <button className="btn btn_dark btn_min">Перезвонить мне</button>
                 </form>

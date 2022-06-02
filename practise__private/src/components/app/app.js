@@ -19,14 +19,14 @@ function App() {
         <div>
             <AppHeader />,
             <AppStyleMeal />,
-            <div class="divider"></div>,
+            <div className="divider"></div>,
             <AppSliderPromo />,
-            <div class="divider"></div>,
+            <div className="divider"></div>,
             <AppCalculatorCalories />,
-            <div class="divider"></div>,
+            <div className="divider"></div>,
             <AppCardsMenu />,
             <AppFormsFeedback />,
-            <div class="divider"></div>,
+            <div className="divider"></div>,
             <AppTimerSale />,
             <AppFooter />,
             <AppModalForms />
